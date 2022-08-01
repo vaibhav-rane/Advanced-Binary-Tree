@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ds.abst</groupId>
-	<artifactId>advanced-binary-tree</artifactId>
+	<artifactId>smart-binary-tree</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>advanced-binary-tree</name>
 	<description>Demo project for Spring Boot</description>
